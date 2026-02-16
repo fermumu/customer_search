@@ -25,12 +25,9 @@ Prueba técnica fullstack desarrollada con Spring Boot y React. Permite consulta
 
 
 ## Requisitos previos
-
 Antes de ejecutar el proyecto, asegúrate de tener instalado:
 
 - Java 17 o superior
-- Maven 3.8+
-- Node.js 18+
 - npm o yarn
 - Git
 
@@ -38,14 +35,11 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 - Visual Studio Code (para el frontend)
 
 ##  Instrucciones para ejecutar el proyecto
-
 El repositorio contiene dos aplicaciones independientes:
 - **/back** → Backend en Spring Boot
 - **/front** → Frontend en React
 
 ###  Clonar el repositorio
-
-
 git clone https://github.com/fermumu/customer_search.git
 cd customer_search
 
@@ -59,8 +53,7 @@ cd customer_search
 * (Intellij IDEA)
 - App run
 
-## 🗄 Base de datos preestablecida
-
+## Base de datos preestablecida
 El proyecto cuenta con una **base de datos preconfigurada** que se inicializa automáticamente al arrancar la aplicación.  
 Esta contiene información de clientes de prueba para facilitar la validación y el uso inmediato del sistema sin necesidad de insertar datos manualmente.
 
