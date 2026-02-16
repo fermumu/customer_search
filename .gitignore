@@ -1,0 +1,10 @@
+# Back
+back/target/
+back/.idea/
+
+# Front
+front/node_modules/
+front/dist/
+
+# General
+.env
